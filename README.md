@@ -32,4 +32,10 @@ A Mentoria DevOps é um programa de mentoria de 12 meses com encontros semanais 
 - Profissionais de Suporte, Cloud, Infra e Redes: Que desejam migrar ou evoluir na área de DevOps e precisam das habilidades necessárias para impulsionar sua carreira.
 
 # Como Participar
-Você pode encontrar mais detalhes sobre essa mentoria [clicando aqui](https://bot.fullfunnel.app/formulario-de-aplicacao-mentoria-devops).
+Agradecemos por todo o tempo em que estivemos juntos na parceria entre a **Toolbox Educação** e a **NextWave Educação**. Foi uma jornada enriquecedora e cheia de aprendizados!  
+
+Agora, seguimos novos caminhos e informamos que essa parceria não existe mais. A **Toolbox Educação** continua oferecendo seus serviços e está disponível para atendê-los diretamente.  
+
+Para mais informações, entre em contato pelo e-mail engenharia@tbxtech.com.  
+
+Seguimos juntos na missão de transformar o aprendizado! 🚀📚

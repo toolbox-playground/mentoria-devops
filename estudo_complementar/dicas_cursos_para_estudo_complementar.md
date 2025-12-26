@@ -25,7 +25,7 @@ O objetivo é aprofundar conhecimentos desde a base do Sistema Operacional até 
 * **[Python Básico (Fundação Bradesco)](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico)**: Sintaxe e primeiros passos na linguagem.
 * **[Google's Python Class (Google Developers)](https://developers.google.com/edu/python?hl=pt-br)**: Material clássico e direto ao ponto para desenvolvedores.
 * **[Introdução à Programação com Python (EV.G)](https://www.escolavirtual.gov.br/curso/629)**: Curso didático para iniciantes.
-* **[Lógica e Criatividade (CIEE)](https://sabervirtual.ciee.org.br/course/1741/about)**: Foco em lógica de programação (JavaScript/Geral).
+* **[Programador Python (CIEE)](https://sabervirtual.ciee.org.br/course/1741/about)**: Foco em lógica de programação (Python).
 
 ## 📦 4. Containers
 

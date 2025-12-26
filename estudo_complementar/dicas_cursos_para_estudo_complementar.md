@@ -1,41 +1,67 @@
 # 📚 Material Complementar - Formação DevOps
 
-Bem-vindo(a)! Este repositório contém uma curadoria de **cursos gratuitos e em português** para complementar seus estudos em nossa trilha de DevOps. 
+Bem-vindo(a)! Este repositório contém uma curadoria de **cursos gratuitos e em português** para complementar seus estudos em nossa trilha de DevOps.
 
-O objetivo é aprofundar conhecimentos em Linux, Python, Arquitetura de Sistemas e Nuvem.
+O objetivo é aprofundar conhecimentos desde a base do Sistema Operacional até a Computação em Nuvem avançada.
 
-## 🐧 Hardware, Sistemas Operacionais e Linux
+## 🐧 1. Sistemas Operacionais e Linux
 
-Fundamentos essenciais para entender onde suas aplicações irão rodar.
+A base de tudo. Antes de automatizar, é preciso entender onde as coisas rodam.
 
+* **[Linux Unhatched (Cisco Academy)](https://www.netacad.com/pt/courses/linux-unhatched?courseLang=pt-BR)**: **(Recomendado)** Curso básico com laboratórios práticos direto no navegador.
 * **[Fundamentos de TI: Hardware e Software (Fundação Bradesco)](https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software)**: Conceitos básicos da computação.
-* **[Certificado Profissional de Suporte em TI (Google/EV.G)](https://www.escolavirtual.gov.br/programa/google/2)**: Um programa robusto que cobre desde hardware e redes até a administração de sistemas Linux e Windows.
+* **[Certificado Profissional de Suporte em TI (Google/EV.G)](https://www.escolavirtual.gov.br/programa/google/2)**: Programa completo cobrindo hardware e administração de sistemas.
 
-## 🐍 Programação e Desenvolvimento (Python & Git)
+## 🌐 2. Redes de Computadores
 
-Foco em lógica de programação, linguagem Python e versionamento de código.
+Entenda como os servidores conversam entre si, essencial para configurar Cloud e Docker.
 
-### GIT & GitHub
-* **[Fundamentos de Git & Github (Microsoft)](https://learn.microsoft.com/pt-br/training/paths/github-foundations/)**: Essencial para qualquer profissional de TI aprenderem a gerenciar código na nuvem.
-* **[Introdução ao Git e GitHub (FGV)](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ao-git-e-github)**: Essencial para qualquer profissional DevOps gerenciar versões de código.
+* **[Conceitos Básicos de Redes (Cisco Academy)](https://www.netacad.com/pt/courses/networking-basics?courseLang=pt-BR)**: O primeiro passo para entender endereços IP e conexão.
+* **[Fundamentos de Redes (Cisco Academy)](https://www.netacad.com/pt/courses/networking-essentials?courseLang=pt-BR)**: Aprofundamento em protocolos e segurança de rede.
 
+## 🐍 3. Programação (Python & Git)
 
-### Linguagem Python
+Ferramentas para criar scripts de automação e versionar sua infraestrutura.
+
+### Git & GitHub
+* **[Fundamentos de Git & Github (Microsoft)](https://learn.microsoft.com/pt-br/training/paths/github-foundations/)**: Essencial para gerenciar código na nuvem.
+* **[Introdução ao Git e GitHub (FGV)](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ao-git-e-github)**: Curso curto e direto sobre versionamento.
+
+### Linguagem Python e Lógica
 * **[Python Básico (Fundação Bradesco)](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico)**: Sintaxe e primeiros passos na linguagem.
-* **[Introdução à Programação com Python (EV.G)](https://www.escolavirtual.gov.br/curso/629)**: Curso didático para quem está começando do zero.
-* **[Google's Python Class (Google Developers)](https://developers.google.com/edu/python?hl=pt-br)**: Material clássico e direto ao ponto do Google para desenvolvedores.
-* **[Programador Python (CIEE)](https://sabervirtual.ciee.org.br/course/1741/about)**: *Nota: Foco em lógica que pode ser aplicada em qualquer linguagem.*
-* **[Desenvolvimento de Software (Portal NTE/MG)](https://portalnte.educacao.mg.gov.br/index.php/home/banco-de-noticias/934-curso-gratuito-de-desenvolvimento-de-software)**: Curso introdutório de desenvolvimento.
+* **[Google's Python Class (Google Developers)](https://developers.google.com/edu/python?hl=pt-br)**: Material clássico e direto ao ponto para desenvolvedores.
+* **[Introdução à Programação com Python (EV.G)](https://www.escolavirtual.gov.br/curso/629)**: Curso didático para iniciantes.
+* **[Lógica e Criatividade (CIEE)](https://sabervirtual.ciee.org.br/course/1741/about)**: Foco em lógica de programação (JavaScript/Geral).
 
-## ☁️ Arquitetura, Nuvem e Carreira
+## 📦 4. Containers
 
-Conceitos avançados para desenhar soluções escaláveis e dicas para o mercado de trabalho.
+O padrão da indústria para empacotar aplicações.
 
+* **[Introduction to Containers (AWS)](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-portugus/V1ZR7QAGKS)**: Entenda o conceito de containerização dentro do ecossistema moderno.
+
+## ☁️ 5. Arquitetura, Nuvem e Carreira
+
+Desenhando soluções escaláveis e se preparando para o mercado.
+
+### Computação em Nuvem (Certificações)
+* **[Google Cloud Computing Foundations (Google Cloud)](https://www.skills.google/paths/36?locale=pt_BR)**: Trilha oficial para entender a nuvem do Google.
+* **[AWS Cloud Practitioner Essentials (AWS)](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-portugus/V1ZR7QAGKS)**: Preparatório oficial para a certificação de entrada da Amazon.
+
+### Arquitetura e Projetos
 * **[Arquitetura de Sistemas (EV.G)](https://www.escolavirtual.gov.br/curso/799)**: Conceitos fundamentais sobre como estruturar software.
-* **[Computação em Nuvem (CIEE)](https://sabervirtual.ciee.org.br/course/1703/about)**: Preparação comportamental para o ambiente corporativo.
-* **[Banco de Dados SQL (CIEE)](https://sabervirtual.ciee.org.br/course/1739/about)**: Dicas de soft skills e apresentação pessoal.
-* **[Projetos de Sistemas de TI (Fundação Bradesco)](https://www.ev.org.br/cursos/projetos-de-sistemas-de-ti)**: Entendimento do ciclo de vida de projetos tecnológicos.
+* **[Projetos de Sistemas de TI (Fundação Bradesco)](https://www.ev.org.br/cursos/projetos-de-sistemas-de-ti)**: Ciclo de vida de projetos tecnológicos.
 
+### Carreira e Soft Skills
+* **[O Mundo do Trabalho (CIEE)](https://sabervirtual.ciee.org.br/course/1703/about)**: Preparação comportamental para o ambiente corporativo.
+* **[Postura e Imagem Profissional (CIEE)](https://sabervirtual.ciee.org.br/course/1739/about)**: Dicas essenciais de comportamento.
 
 ---
-*Bons estudos!* 🚀
+
+## 🚀 Material Avançado (Pós-Curso)
+
+Para quem deseja seguir a carreira de SRE (Site Reliability Engineering).
+
+* **[DevOps e SRE Learning Path (Google Cloud)](https://www.skills.google/paths/20?catalog_rank=%7B%22rank%22%3A12%2C%22num_filters%22%3A2%2C%22has_search%22%3Afalse%7D&locale=pt_BR)**: Trilha profissionalizante focada em operações modernas.
+
+---
+*Bons estudos!*

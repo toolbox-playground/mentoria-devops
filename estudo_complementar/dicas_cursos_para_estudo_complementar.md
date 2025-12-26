@@ -1,27 +1,21 @@
 # 📚 Material Complementar - Formação DevOps
 
-Bem-vindo(a)! Este repositório contém uma curadoria de **cursos gratuitos e em português** para complementar seus estudos em nossa trilha de DevOps.
+Bem-vindo(a)! Este repositório contém uma curadoria de **cursos gratuitos e em português** para complementar seus estudos em nossa trilha de DevOps da Toolbox Tech Educação.
 
-O objetivo é aprofundar conhecimentos desde a base do Sistema Operacional até a Computação em Nuvem avançada.
+O objetivo é aprofundar conhecimentos desde a base do Sistema Operacional até a Computação em Nuvem avançada, passando por todas as tecnologias e áreas do conhecimento abordadas nos cursos e mentorias em DevOps, Computação em Nuvem, OperaçÕes de TI, Programação e desenvolvimento de software oferecidos pela plataforma https://edu.tbxtech.com.br/.
 
 ## 🐧 1. Sistemas Operacionais e Linux
 
-A base de tudo. Antes de automatizar, é preciso entender onde as coisas rodam.
-
-* **[Linux Unhatched (Cisco Academy)](https://www.netacad.com/pt/courses/linux-unhatched?courseLang=pt-BR)**: **(Recomendado)** Curso básico com laboratórios práticos direto no navegador.
 * **[Fundamentos de TI: Hardware e Software (Fundação Bradesco)](https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software)**: Conceitos básicos da computação.
-* **[Certificado Profissional de Suporte em TI (Google/EV.G)](https://www.escolavirtual.gov.br/programa/google/2)**: Programa completo cobrindo hardware e administração de sistemas.
+* **[Linux Unhatched (Cisco Academy)](https://www.netacad.com/pt/courses/linux-unhatched?courseLang=pt-BR)**: **(Recomendado)** Curso básico com laboratórios práticos direto no navegador.
+
 
 ## 🌐 2. Redes de Computadores
-
-Entenda como os servidores conversam entre si, essencial para configurar Cloud e Docker.
 
 * **[Conceitos Básicos de Redes (Cisco Academy)](https://www.netacad.com/pt/courses/networking-basics?courseLang=pt-BR)**: O primeiro passo para entender endereços IP e conexão.
 * **[Fundamentos de Redes (Cisco Academy)](https://www.netacad.com/pt/courses/networking-essentials?courseLang=pt-BR)**: Aprofundamento em protocolos e segurança de rede.
 
 ## 🐍 3. Programação (Python & Git)
-
-Ferramentas para criar scripts de automação e versionar sua infraestrutura.
 
 ### Git & GitHub
 * **[Fundamentos de Git & Github (Microsoft)](https://learn.microsoft.com/pt-br/training/paths/github-foundations/)**: Essencial para gerenciar código na nuvem.
@@ -35,15 +29,14 @@ Ferramentas para criar scripts de automação e versionar sua infraestrutura.
 
 ## 📦 4. Containers
 
-O padrão da indústria para empacotar aplicações.
+* **[Introdução à Containers (AWS)](https://skillbuilder.aws/learn/CUCA1DK47V/introduction-to-containers-portugus/ZUSSCFAK8T)**: Entenda o conceito de containerização dentro do ecossistema moderno.
+* **[Básico de Containers (AWS)](https://skillbuilder.aws/learn/WU72QMK76B/introduction-to-container-basics-portugus/NGEEBN4HJB)**: reforce o básico de containerização.
 
-* **[Introduction to Containers (AWS)](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-portugus/V1ZR7QAGKS)**: Entenda o conceito de containerização dentro do ecossistema moderno.
 
 ## ☁️ 5. Arquitetura, Nuvem e Carreira
 
-Desenhando soluções escaláveis e se preparando para o mercado.
-
 ### Computação em Nuvem (Certificações)
+* **[Computação em Nuvem (CIEE)](https://sabervirtual.ciee.org.br/course/1703/about)**: Preparação comportamental para o ambiente corporativo.
 * **[Google Cloud Computing Foundations (Google Cloud)](https://www.skills.google/paths/36?locale=pt_BR)**: Trilha oficial para entender a nuvem do Google.
 * **[AWS Cloud Practitioner Essentials (AWS)](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-portugus/V1ZR7QAGKS)**: Preparatório oficial para a certificação de entrada da Amazon.
 
@@ -51,9 +44,6 @@ Desenhando soluções escaláveis e se preparando para o mercado.
 * **[Arquitetura de Sistemas (EV.G)](https://www.escolavirtual.gov.br/curso/799)**: Conceitos fundamentais sobre como estruturar software.
 * **[Projetos de Sistemas de TI (Fundação Bradesco)](https://www.ev.org.br/cursos/projetos-de-sistemas-de-ti)**: Ciclo de vida de projetos tecnológicos.
 
-### Carreira e Soft Skills
-* **[O Mundo do Trabalho (CIEE)](https://sabervirtual.ciee.org.br/course/1703/about)**: Preparação comportamental para o ambiente corporativo.
-* **[Postura e Imagem Profissional (CIEE)](https://sabervirtual.ciee.org.br/course/1739/about)**: Dicas essenciais de comportamento.
 
 ---
 

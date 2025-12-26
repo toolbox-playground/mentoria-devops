@@ -1,4 +1,4 @@
-![Mentoria DevOps](imgs/MENTORIA_DEVOPS.png "Mentoria DevOps")
+![Mentoria DevOps](imgs/MENTORIA_DEVOPSpng "Mentoria DevOps")
 
 # Mentoria DevOps
 Este é o repositório oficial da Mentoria DevOps, uma parceria entre Toolbox e NextWave Educação!

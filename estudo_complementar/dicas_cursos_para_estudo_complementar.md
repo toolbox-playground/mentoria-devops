@@ -36,6 +36,7 @@ O objetivo é aprofundar conhecimentos desde a base do Sistema Operacional até 
 ### Git & GitHub
 * **[Fundamentos de Git & Github (Microsoft)](https://learn.microsoft.com/pt-br/training/paths/github-foundations/)**: Essencial para gerenciar código na nuvem.
 * **[Introdução ao Git e GitHub (FGV)](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ao-git-e-github)**: Curso curto e direto sobre versionamento.
+*  **[Recursos para Aprendizagem de Git e Github (Github Docs))](https://docs.github.com/pt/get-started/start-your-journey/git-and-github-learning-resources)**: Documentação oficial da organização Github ensinando sobre como utilizar Git e Github.
 
 ## ☁️ 6. Arquitetura, Nuvem e Carreira
 

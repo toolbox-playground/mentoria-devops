@@ -15,17 +15,14 @@ O objetivo é aprofundar conhecimentos desde a base do Sistema Operacional até 
 * **[Conceitos Básicos de Redes (Cisco Academy)](https://www.netacad.com/pt/courses/networking-basics?courseLang=pt-BR)**: O primeiro passo para entender endereços IP e conexão.
 * **[Fundamentos de Redes (Cisco Academy)](https://www.netacad.com/pt/courses/networking-essentials?courseLang=pt-BR)**: Aprofundamento em protocolos e segurança de rede.
 
-## 🐍 3. Programação (Python & Git)
-
-### Git & GitHub
-* **[Fundamentos de Git & Github (Microsoft)](https://learn.microsoft.com/pt-br/training/paths/github-foundations/)**: Essencial para gerenciar código na nuvem.
-* **[Introdução ao Git e GitHub (FGV)](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ao-git-e-github)**: Curso curto e direto sobre versionamento.
+## 🐍 3. Linguagem de Programação (Python)
 
 ### Linguagem Python e Lógica
 * **[Python Básico (Fundação Bradesco)](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico)**: Sintaxe e primeiros passos na linguagem.
 * **[Google's Python Class (Google Developers)](https://developers.google.com/edu/python?hl=pt-br)**: Material clássico e direto ao ponto para desenvolvedores.
 * **[Introdução à Programação com Python (EV.G)](https://www.escolavirtual.gov.br/curso/629)**: Curso didático para iniciantes.
 * **[Programador Python (CIEE)](https://sabervirtual.ciee.org.br/course/1741/about)**: Foco em lógica de programação (Python).
+
 
 ## 📦 4. Containers
 
@@ -34,10 +31,15 @@ O objetivo é aprofundar conhecimentos desde a base do Sistema Operacional até 
 * **[Introdução à Containers (AWS)](https://skillbuilder.aws/learn/CUCA1DK47V/introduction-to-containers-portugus/ZUSSCFAK8T)**: Entenda o conceito de containerização dentro do ecossistema moderno.
 * **[Básico de Containers (AWS)](https://skillbuilder.aws/learn/WU72QMK76B/introduction-to-container-basics-portugus/NGEEBN4HJB)**: reforce o básico de containerização.
 
+## 🏷️ 5. Versionamento de Código (Git & Github)
 
-## ☁️ 5. Arquitetura, Nuvem e Carreira
+### Git & GitHub
+* **[Fundamentos de Git & Github (Microsoft)](https://learn.microsoft.com/pt-br/training/paths/github-foundations/)**: Essencial para gerenciar código na nuvem.
+* **[Introdução ao Git e GitHub (FGV)](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ao-git-e-github)**: Curso curto e direto sobre versionamento.
 
-### Computação em Nuvem (Certificações)
+## ☁️ 6. Arquitetura, Nuvem e Carreira
+
+### Computação em Nuvem
 * **[Computação em Nuvem (CIEE)](https://sabervirtual.ciee.org.br/course/1703/about)**: Preparação comportamental para o ambiente corporativo.
 * **[Google Cloud Computing Foundations (Google Cloud)](https://www.skills.google/paths/36?locale=pt_BR)**: Trilha oficial para entender a nuvem do Google.
 * **[AWS Cloud Practitioner Essentials (AWS)](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-portugus/V1ZR7QAGKS)**: Preparatório oficial para a certificação de entrada da Amazon.
